@@ -1,0 +1,31 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ar-dev-01" id="1705c1d3-c203-46f9-8d77-6b983497b299" port="22" nameFormat="DESCRIPTIVE" username="algarcia" />
+      <sshConfig authType="PASSWORD" host="ar-dev-02" id="54e1b235-745d-4d49-8687-ce152acabe65" port="22" nameFormat="DESCRIPTIVE" username="algarcia" />
+      <sshConfig authType="PASSWORD" host="ar-dev-05" id="2abfb7bf-3909-4295-b9c1-dc7f1575301a" port="22" nameFormat="DESCRIPTIVE" username="algarcia" />
+      <sshConfig host="10.164.45.193" id="e2efad4a-715c-4ab1-b6f1-b5634bb0a27a" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.45.193:22" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.45.193:22" />
+      </sshConfig>
+      <sshConfig host="10.164.196.141" id="91115429-08bd-4f2e-9571-b34c9af7f248" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.196.141:22 - gbus" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.196.141:22 - gbus" />
+      </sshConfig>
+      <sshConfig host="10.164.196.223" id="a12c6941-5d46-4489-9b9c-80d5b438e57a" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.196.223:22 - Academy" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.196.223:22 - Academy" />
+      </sshConfig>
+      <sshConfig host="10.164.196.250" id="8333110e-952c-4054-88d5-31de6a24d6fd" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.196.250:22" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.196.250:22" />
+      </sshConfig>
+      <sshConfig host="10.164.199.226" id="a926c843-d051-49e5-8b92-6a062cf57dcd" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.199.226:22" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.199.226:22" />
+      </sshConfig>
+      <sshConfig host="10.164.199.229" id="f6f50b14-7363-4f52-9383-c36872fb91be" keyPath="C:\Users\algarcia\Documents\Trabajo\AWS-VRTI.pem" port="22" customName="vt724@10.164.199.229:22 - VRTI" nameFormat="CUSTOM" username="centos">
+        <option name="customName" value="vt724@10.164.199.229:22 - VRTI" />
+      </sshConfig>
+      <sshConfig host="10.164.199.230" id="14b3a5f5-bd61-43fe-bf75-14da98d96d2b" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" nameFormat="DESCRIPTIVE" username="vt724" />
+      <sshConfig host="10.164.212.222" id="29dffa0f-dfe1-470a-b1e2-917cc4846112" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.212.222:22" nameFormat="CUSTOM" username="vt724">
+        <option name="customName" value="vt724@10.164.212.222:22" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

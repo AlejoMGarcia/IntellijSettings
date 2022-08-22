@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube2.veritran.net/" />
+          <token>dfcbdfc9df9ddf9cdf93dfc9df9ddf9cdf99dfc9df9bdf9cdf9edf9adfcfdfcbdfccdf9adf9bdf9adfcfdfc9df92df9fdfc9dfcfdf99df99df9adf9adf9bdf92dfc8df92dfc8df9fdf9fdfccdf9fdfcf</token>
+          <option name="name" value="Sonarqube2" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

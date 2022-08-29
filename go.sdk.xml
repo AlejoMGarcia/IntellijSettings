@@ -1,0 +1,11 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-url>
+      <set>
+        <option value="file:////wsl$/Ubuntu-20.04/usr/local/go" />
+        <option value="file://C:/Program Files/Go" />
+        <option value="file://$USER_HOME$/sdk/go1.17" />
+      </set>
+    </sdk-url>
+  </component>
+</application>

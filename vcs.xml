@@ -70,6 +70,10 @@
           <option name="url" value="https://gitlab.com/veritran/hiring-exercises/juan-pablo-ramirez.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/veritran/hiring-exercises/juan-cruz-rompani.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\algarcia\git\challenges" />

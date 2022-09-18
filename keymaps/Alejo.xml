@@ -7,6 +7,9 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="EditorDuplicateLines" />
+  <action id="EditorTranspose">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl plus" />

@@ -1,9 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ar-dev-01" id="1705c1d3-c203-46f9-8d77-6b983497b299" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="ar-dev-02" id="54e1b235-745d-4d49-8687-ce152acabe65" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="ar-dev-05" id="2abfb7bf-3909-4295-b9c1-dc7f1575301a" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ar-dev-01.veritran.net" id="1705c1d3-c203-46f9-8d77-6b983497b299" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ar-dev-02.veritran.net" id="54e1b235-745d-4d49-8687-ce152acabe65" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ar-dev-05.veritran.net" id="2abfb7bf-3909-4295-b9c1-dc7f1575301a" port="22" nameFormat="DESCRIPTIVE" username="algarcia" useOpenSSHConfig="true" />
       <sshConfig host="10.164.45.193" id="e2efad4a-715c-4ab1-b6f1-b5634bb0a27a" keyPath="C:\Users\algarcia\Documents\Trabajo\mvp.pem" port="22" customName="vt724@10.164.45.193:22" nameFormat="CUSTOM" username="vt724">
         <option name="customName" value="vt724@10.164.45.193:22" />
       </sshConfig>

@@ -82,9 +82,13 @@
           <option name="url" value="https://gitlab.com/veritran/hiring-exercises/jose-antonio-carril-aranda" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tbotalla/base-repo-katas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\algarcia\git\challenges" />
+    <option name="cloneParentDir" value="C:\Users\algarcia\git\katas" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
